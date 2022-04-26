@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="70mm"
+   height="60mm"
+   viewBox="0 0 70 60"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="board.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs898" />
+  <sodipodi:namedview
+     id="namedview896"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.1220833"
+     inkscape:cx="137.2481"
+     inkscape:cy="115.94822"
+     inkscape:window-width="1896"
+     inkscape:window-height="917"
+     inkscape:window-x="12"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <path
+     fill-rule="evenodd"
+     fill="#15a"
+     stroke="none"
+     d="M 0,0 h 70 v 60 h -70 v -60          M 5,2 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0          m -59.9,10 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0          m -59.9,10 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0          m -59.9,10 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0          m -59.9,10 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0          m -59.9,10 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0             m 10.1,0 a 3,3 0 1 1 -0.1,0"
+     id="path893" />
+  <path
+     style="fill:#1e67c2;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 0,0 V 40 L 1,1 43,0 Z"
+     id="path1032"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#094999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 70,60 v -40 L 69,59 27,60 Z"
+     id="path5062"
+     sodipodi:nodetypes="ccccc" />
+</svg>

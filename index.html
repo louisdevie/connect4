@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="script.js"></script>
+	<title></title>
+</head>
+<body onload="onLoad();">
+	<div class="board">
+		<div class="overlay">
+			<button class="column" id="column-0" onclick="playOn(0);">
+				<span class="chip player-color"></span>
+			</button>
+			<button class="column" id="column-1" onclick="playOn(1);">
+				<span class="chip player-color"></span>
+			</button>
+			<button class="column" id="column-2" onclick="playOn(2);">
+				<span class="chip player-color"></span>
+			</button>
+			<button class="column" id="column-3" onclick="playOn(3);">
+				<span class="chip player-color"></span>
+			</button>
+			<button class="column" id="column-4" onclick="playOn(4);">
+				<span class="chip player-color"></span>
+			</button>
+			<button class="column" id="column-5" onclick="playOn(5);">
+				<span class="chip player-color"></span>
+			</button>
+			<button class="column" id="column-6" onclick="playOn(6);">
+				<span class="chip player-color"></span>
+			</button>
+		</div>
+		<div id="grid">
+		</div>
+		<img src="board.svg" id="board-image">
+	</div>
+	<div id="popup-start" class="popup">
+		<span>Who's first ?</span>
+		<div>
+			<button onclick="startGame(false);">Me</button>
+			<button onclick="startGame(true);">the Bot</button>
+		</div>
+	</div>
+	<div id="popup-end" class="popup" style="display: none;">
+		<span id="span-end"></span>
+		<div>
+			<button onclick="window.location.reload();">Play again</button>
+		</div>
+	</div>
+</body>
+</html>
