@@ -45,6 +45,26 @@ function onLoad() {
 	for (const btn of document.getElementsByClassName("column")) {
 		btn.disabled = true;
 	}
+
+	localise();
+}
+
+var CAPTION_WIN = "You won !";
+var CAPTION_DRAW = "Draw ...";
+var CAPTION_LOOSE = "You lost !";
+function localise() {
+	if (navigator.language.startsWith("fr")) {
+		document.title = "Puissance 4";
+		let popupStart = document.getElementById("popup-start");
+		popupStart.children[0].innerText = "Qui commence ?";
+		popupStart.children[1].children[0].innerText = "Moi";
+		popupStart.children[1].children[1].innerText = "Le bot";
+		let popupEnd = document.getElementById("popup-end");
+		popupEnd.children[1].children[0].innerText = "Rejouer";
+		CAPTION_WIN = "Gagné !";
+		CAPTION_DRAW = "Match nul ...";
+		CAPTION_LOOSE = "Perdu !";
+	}
 }
 
 function startGame(botFirst) {
@@ -393,19 +413,19 @@ function gameEnd() {
 
 function drawScreen() {
 	status(board, true);
-	document.getElementById("span-end").innerText = "Draw …";
+	document.getElementById("span-end").innerText = CAPTION_DRAW;
 	document.getElementById("popup-end").style.display = "block";
 }
 
 function looseScreen() {
 	status(board, true);
-	document.getElementById("span-end").innerText = "You lost !";
+	document.getElementById("span-end").innerText = CAPTION_LOOSE;
 	document.getElementById("popup-end").style.display = "block";
 }
 
 function winScreen() {
 	status(board, true);
-	document.getElementById("span-end").innerText = "You won !";
+	document.getElementById("span-end").innerText = CAPTION_WIN;
 	document.getElementById("popup-end").style.display = "block";
 }
 
