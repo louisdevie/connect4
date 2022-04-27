@@ -24,11 +24,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.55335072"
-     inkscape:cx="313.54437"
-     inkscape:cy="464.44324"
-     inkscape:window-width="1896"
+     inkscape:cx="242.16107"
+     inkscape:cy="363.2416"
+     inkscape:window-width="1181"
      inkscape:window-height="917"
-     inkscape:window-x="12"
+     inkscape:window-x="966"
      inkscape:window-y="44"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -51,12 +51,20 @@
        d="M 65,115 a 50,50 0 0 0 50,-50 70,70 0 0 1 -50,50"
        style="fill:#c49f09;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#c49f09;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#f2ca30;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 36.999999,44.999999 24,7 14.999999,-20 v 4 l -14.999999,20 -24,-11 18,20 -13,18.999999 -4.999999,1 13.999998,-19.999999 z"
        id="path15349" />
     <path
-       style="fill:#f2ca30;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#c49f09;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 75.999998,72.999999 v 24.999997 l -14.999999,-20 12,13.000002 0,-19.999999 19.999999,-6 -17,-8 24,8 z"
        id="path17548" />
+    <path
+       id="path2040"
+       d="m 65,104 a 39,39 0 0 0 39,-38.999997 50,50 0 0 1 -39,38.999997"
+       style="fill:#f2ca30;fill-opacity:1;stroke:none" />
+    <path
+       id="path827"
+       d="m 65,26 a 39,39 0 0 0 -39,38.999997 50,50 0 0 1 39,-38.999997"
+       style="fill:#c49f09;fill-opacity:1;stroke:none" />
   </g>
 </svg>
